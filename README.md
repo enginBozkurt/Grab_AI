@@ -49,7 +49,7 @@ We can make the following assumptions and draw some conclusions from them about 
 
 
 
-## Machine learning Approach
+## Machine Learning Approach
 - Random Forest regression
 The results show that the ability of the Random Forest algorithm is  to capture the complexities in the features, especially latitude and longitude
 
