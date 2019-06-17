@@ -31,6 +31,10 @@ We can make the following assumptions and draw some conclusions from them about 
 
 ## Feature Engineering
 
+![cyclic-numeric-feature-transformation](https://user-images.githubusercontent.com/30608533/59575774-7ce74880-90c5-11e9-9f1a-2d9dd441a89f.png)
+
+
+
 - I grouped the entire dataset by time (binned into quarter hours).
 - I also added additional features based on the time and day of the week. 
 - These features are transformed into sine and cosine forms for catching the relationship in cyclic numerical features.
