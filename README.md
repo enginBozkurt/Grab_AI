@@ -1,6 +1,9 @@
 # Grab_AI
 Traffic  Management Project
 
+![Screenshot_2](https://user-images.githubusercontent.com/30608533/59575813-a6a06f80-90c5-11e9-83fa-b9680dbe7170.jpg)
+
+
 ## PROBLEM STATEMENT
 
 Economies in Southeast Asia are turning to AI to solve traffic congestion, which hinders mobility and economic growth. 
@@ -13,9 +16,13 @@ Can we accurately forecast travel demand based on historical Grab bookings to pr
 ## Dataset:
 The given dataset contains normalized historical demand of a city, aggregated spatiotemporally within geohashes and over 15-minute intervals. The dataset spans over a two month period.
 
+
 geohash6: encoded geographic location
+
 day: days follow a sequential order and not a particular day of the month
+
 timestamp: 15-minute intervals
+
 demand: aggregated demand normalized with values from 0 to 1
 
 
